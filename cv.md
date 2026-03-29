@@ -19,9 +19,14 @@ alert( result );
 ---
 ## About Me
 
- I am 22 years old and currently studying to become a power engineer. 
+I am 22 years old and currently studying to become a power engineer. 
 I am exploring a new field — frontend development — and working towards building my skills in this area. 
-These are my first steps toward this goal.  
+These are my first steps toward this goal.
+
 ---
+## Languages
+* ***Russian***— Advanced
+* ***Kazakh*** — Advanced
+
 
 
