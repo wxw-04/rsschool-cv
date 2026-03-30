@@ -1,1 +1,1 @@
-https://wxw-04.github.io/rsschool-cv/cv
+https://wxw-04.github.io/rsschool-cv/
